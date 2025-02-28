@@ -30,6 +30,8 @@ This repository contains implementations and analyses for Statistical Methods in
 ├── 📄 input.mp4
 ├── 📄 segment.pth
 ├── 📄 frame_0000.jpg
+├── 📄 output_video_optimized.mp4
+├── 📄 output_video_without_optimization.mp4
 ├── 📁 images/
 │   ├── 📄 out_20m_k200.jpg
         ...
